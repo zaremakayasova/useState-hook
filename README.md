@@ -1,3 +1,6 @@
+# Use-state-example
+A small application to help us understand the useState hook
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
